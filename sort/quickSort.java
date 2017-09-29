@@ -1,4 +1,4 @@
-class Ideone
+class Solution
 {
    public void quicksort (int[] A, int lo, int hi ) {
 	 if ( lo < hi ) {
